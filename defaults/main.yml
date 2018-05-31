@@ -1,1 +1,4 @@
 ---
+
+# sqlite data location
+sqlite_datadir: /var/lib/sqlite
