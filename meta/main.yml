@@ -3,6 +3,7 @@
 dependencies: []
 
 galaxy_info:
+  role_name: 'sqlite'
   author: 'Adfinis SyGroup AG'
   description: 'Install and manage sqlite.'
   company: 'Adfinis SyGroup AG'
@@ -23,4 +24,6 @@ galaxy_info:
       versions:
         - 6
         - 7
-  galaxy_tags: []
+  galaxy_tags:
+    - sqlite
+    - sql
